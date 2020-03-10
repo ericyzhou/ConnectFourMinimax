@@ -5,7 +5,7 @@ model = ConnectFourModel()
 # Move first or second
 first_or_second = 1
 
-# Controller for playing against connect four AI
+# Controller for connect four AI to play against another AI
 
 
 class ConnectFourAIAIController:
