@@ -10,3 +10,13 @@ ConnectFourController- Human vs Human
 ConnectFourAIController- Human vs AI
 
 ConnectFourAIAIController- AI vs AI
+
+# Sources
+
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+
+https://www.hackerearth.com/blog/developers/minimax-algorithm-alpha-beta-pruning
+
+http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html
+
+https://stackabuse.com/minimax-and-alpha-beta-pruning-in-python/
